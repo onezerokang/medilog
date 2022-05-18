@@ -4,7 +4,7 @@
 
 ## 사용 기술 및 개발환경
 
-Node.js, Nest.js, Mongodb
+Node.js, Nest.js, Mongodb, EC2
 
 ## UI
 
