@@ -10,6 +10,22 @@ Node.js, Nest.js, Mongodb, EC2
 
 자세한 사항은 아래 링크를 참조
 
+## 브랜치 전략
+브랜치 전략은 [Github flow](https://oogway.tistory.com/6)를 사용했습니다. Github flow는 main 브랜치가 곧 product가 되는 전략으로 git flow에 비해 간단하여 자주 배포하는 개발팀에게 적합합니다.
+
+![Github_flow](https://blog.kakaocdn.net/dn/NDqYw/btrCBZEw19s/VTKqKnsaZzkFBEHAhWhCwk/img.png)
+
+사용방법은 다음과 같습니다.
+
+- 새로운 작업 전에 작업 내용을 담은 브랜치를 생성합니다
+  - 네이밍 예시가 들어갈 것
+  - 네이밍 예시가 들어갈 것
+- 작업이 끝나면 원격 브랜치로 push 하고 Pull Request를 생성하여 리뷰를 받습니다.
+- 리뷰가 끝난 커밋은 main 브랜치로 병합됩니다.
+- main 브랜치에 병합한 후 작업한 브랜치는 삭제합니다.
+
+CI에 대한 내용이 들어갈 것
+
 ## Architecture
 
 ## Mongodb Schema
