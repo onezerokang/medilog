@@ -32,3 +32,4 @@ CI에 대한 내용이 들어갈 것
 ## Mongodb Schema
 
 ## 주요 기능
+자세한 내용은 [Use case](https://github.com/onezerokang/medilog/wiki/Use-case) 문서를 참고하십시오.
