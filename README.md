@@ -8,7 +8,7 @@ Node.js, Nest.js, Mongodb, EC2
 
 ## UI
 
-자세한 사항은 아래 링크를 참조
+자세한 내용은 [UI](https://github.com/onezerokang/medilog/wiki/UI) 문서를 참고하십시오.
 
 ## 브랜치 전략
 브랜치 전략은 [Github flow](https://oogway.tistory.com/6)를 사용했습니다. Github flow는 main 브랜치가 곧 product가 되는 전략으로 git flow에 비해 간단하여 자주 배포하는 개발팀에게 적합합니다.
